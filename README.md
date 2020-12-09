@@ -1,6 +1,4 @@
 # cautious-telegram
-this is a test repo for cyber security
-
 ### Cipher
 an encryption rule set
 
