@@ -1,17 +1,17 @@
 # cautious-telegram
 this is a test repo for cyber security
 
-## Cipher
+### Cipher
 an encryption rule set
 
-## Key
+### Key
 a piece of information needed to decode a encryption
 
-## Deciphering
+### Deciphering
 the act of breaking a code
 
-## Caesar cipher 
+### Caesar cipher 
 shift the letter by X
 
-## Monoalphabetic cipher 
+### Monoalphabetic cipher 
 one alphabet for the entire encryption
